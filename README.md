@@ -8,4 +8,11 @@
 [![project repo](https://img.shields.io/badge/github-project_repository-F6F6F6)](https://github.com/cyterat/mia-ua-weapons)
 <br></br>
 ***
-. . .
+<img align="left" width="90" src="graphs/graphs-notebook-qr.png"/>
+
+### 🕸️ Basic Graph Theory. Methods of Graph Representation in Python
+
+&nbsp;[![nbviewer](https://img.shields.io/badge/nbviewer-graphs-e87133)](https://bit.ly/3RwVk4k)
+<br></br>
+***
+. . . 
