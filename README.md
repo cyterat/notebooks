@@ -12,7 +12,7 @@
 
 ### 🕸️ Basic Graph Theory. Methods of Graph Representation in Python
 
-&nbsp;[![nbviewer](https://img.shields.io/badge/nbviewer-graphs-e87133)](https://bit.ly/41F6GYG)
+&nbsp;[![nbviewer](https://img.shields.io/badge/nbviewer-graphs-e87133)](https://bit.ly/3S59JX6)
 <br></br>
 ***
-. . . 
+. . .
