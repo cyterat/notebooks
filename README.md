@@ -36,7 +36,6 @@
 ### 🌍 GeoSpatial Data. Kreminna Area
 
 &nbsp;[![nbviewer](https://img.shields.io/badge/nbviewer-IDA_notebook-e87133)](https://nbviewer.org/github/cyterat/notebooks/blob/main/geo-spatial/kreminna-ida.ipynb)
-
 <br></br>
 
 ***
@@ -46,7 +45,6 @@
 ### 🌍 GeoSpatial Data. DeepState Map
 
 &nbsp;[![nbviewer](https://img.shields.io/badge/nbviewer-IDA_notebook-e87133)](https://nbviewer.org/github/cyterat/notebooks/blob/main/deepstatemap-data/DeepStateMap_data.ipynb)
-
 <br></br>
 
 ***
