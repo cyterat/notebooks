@@ -40,4 +40,14 @@
 <br></br>
 
 ***
+
+<img align="left" width="90" src="deepstatemap-data/DeepStateMap_data-qr.png"/>
+
+### 🌍 GeoSpatial Data. DeepState Map
+
+&nbsp;[![nbviewer](https://img.shields.io/badge/nbviewer-IDA_notebook-e87133)](https://nbviewer.org/github/cyterat/notebooks/blob/main/deepstatemap-data/DeepStateMap_data.ipynb)
+
+<br></br>
+
+***
 . . .
