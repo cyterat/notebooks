@@ -42,7 +42,7 @@
 
 <img align="left" width="90" src="deepstatemap-data/DeepStateMap_data-qr.png"/>
 
-### 🌍 GeoSpatial Data. DeepState Map
+### 🌍 GeoSpatial Data Scraping and Cleaning. Script Prototype. DeepState Map Data
 
 &nbsp;[![nbviewer](https://img.shields.io/badge/nbviewer-IDA_notebook-e87133)](https://nbviewer.org/github/cyterat/notebooks/blob/main/deepstatemap-data/DeepStateMap_data.ipynb)
 <br></br>
