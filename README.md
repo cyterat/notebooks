@@ -48,4 +48,13 @@
 <br></br>
 
 ***
+
+<img align="left" width="90" src="guild-data-analysis/guild-data-analysis-qr.png"/>
+
+### 🧙‍♂️ Data Analysis of an MMORPG Guild Logs
+
+&nbsp;[![nbviewer](https://img.shields.io/badge/nbviewer-IDA_notebook-e87133)](https://nbviewer.org/github/cyterat/notebooks/blob/main/guild-data-analysis/guild-data-analysis.ipynb)
+<br></br>
+
+***
 . . .
