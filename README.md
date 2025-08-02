@@ -4,7 +4,7 @@
 
 ### ⚔️Lost and Stolen Weapons in Ukraine
 
-&nbsp;[![nbviewer](https://img.shields.io/badge/nbviewer-IDA_notebook-e87133)](http://bit.ly/3XXuxQr)
+&nbsp;[![nbviewer](https://img.shields.io/badge/nbviewer-IDA-e87133)](http://bit.ly/3XXuxQr)
 [![project repo](https://img.shields.io/badge/github-project_repository-F6F6F6)](https://github.com/cyterat/mia-ua-weapons)
 <br></br>
 
@@ -14,7 +14,7 @@
 
 ### 🕸️ Basic Graph Theory. Methods of Graph Representation in Python
 
-&nbsp;[![nbviewer](https://img.shields.io/badge/nbviewer-graphs-e87133)](https://nbviewer.org/github/cyterat/notebooks/blob/6aa737656132a92c7fb5a32f86eadd4bb15efb55/graphs/graphs.ipynb)
+&nbsp;[![nbviewer](https://img.shields.io/badge/nbviewer-edu-e87133)](https://nbviewer.org/github/cyterat/notebooks/blob/6aa737656132a92c7fb5a32f86eadd4bb15efb55/graphs/graphs.ipynb)
 <br></br>
 
 ***
@@ -23,7 +23,7 @@
 
 ### 🩸 Statistics. Methods of Sampling in Python (_*AI Generated_)
 
-&nbsp;[![nbviewer](https://img.shields.io/badge/nbviewer-sampling-e87133)](https://nbviewer.org/github/cyterat/notebooks/blob/main/statistics/sampling.ipynb)
+&nbsp;[![nbviewer](https://img.shields.io/badge/nbviewer-edu-e87133)](https://nbviewer.org/github/cyterat/notebooks/blob/main/statistics/sampling.ipynb)
 <a target="_blank" href="https://colab.research.google.com/github/cyterat/notebooks/blob/main/statistics/sampling.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
@@ -33,18 +33,19 @@
 
 <img align="left" width="90" src="geo-spatial/assets/kreminna/kreminna-ida-notebook-qr.png"/>
 
-### 🌍 GeoSpatial Data. Kreminna Area
+### 🌍 GeoSpatial Data. Layers for Custom Map. Kreminna Area
 
-&nbsp;[![nbviewer](https://img.shields.io/badge/nbviewer-IDA_notebook-e87133)](https://nbviewer.org/github/cyterat/notebooks/blob/main/geo-spatial/kreminna-ida.ipynb)
+&nbsp;[![nbviewer](https://img.shields.io/badge/nbviewer-IDA-e87133)](https://nbviewer.org/github/cyterat/notebooks/blob/main/geo-spatial/kreminna-ida.ipynb)
 <br></br>
 
 ***
 
 <img align="left" width="90" src="deepstatemap-data/DeepStateMap_data-qr.png"/>
 
-### 🌍 GeoSpatial Data Scraping and Cleaning. Script Prototype. DeepState Map Data
+### 🌍 GeoSpatial Data. Script Prototype. DeepState Map Data
 
-&nbsp;[![nbviewer](https://img.shields.io/badge/nbviewer-IDA_notebook-e87133)](https://nbviewer.org/github/cyterat/notebooks/blob/main/deepstatemap-data/DeepStateMap_data.ipynb)
+&nbsp;[![nbviewer](https://img.shields.io/badge/nbviewer-IDA-e87133)](https://nbviewer.org/github/cyterat/notebooks/blob/main/deepstatemap-data/DeepStateMap_data.ipynb)
+[![project repo](https://img.shields.io/badge/github-project_repository-F6F6F6)](https://github.com/cyterat/deepstate-map-data)
 <br></br>
 
 ***
