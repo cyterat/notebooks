@@ -21,7 +21,7 @@
 
 <img align="left" width="90" src="statistics/sampling-notebook-qr.png"/>
 
-### 🩸 Statistics. Methods of Sampling in Python
+### 🩸 Statistics. Methods of Sampling in Python (_*AI Generated_)
 
 &nbsp;[![nbviewer](https://img.shields.io/badge/nbviewer-sampling-e87133)](https://nbviewer.org/github/cyterat/notebooks/blob/main/statistics/sampling.ipynb)
 <a target="_blank" href="https://colab.research.google.com/github/cyterat/notebooks/blob/main/statistics/sampling.ipynb">
@@ -49,11 +49,20 @@
 
 ***
 
-<img align="left" width="90" src="guild-data-analysis/guild-data-analysis-qr.png"/>
+<img align="left" width="90" src="guild-data-analysis/guild-eda-qr.png"/>
 
-### 🧙‍♂️ Data Analysis of an MMORPG Guild Logs
+### 🧙‍♂️ IDA and EDA of the MMORPG Guild Logs
 
-&nbsp;[![nbviewer](https://img.shields.io/badge/nbviewer-Data_Analysis-e87133)](https://nbviewer.org/github/cyterat/notebooks/blob/main/guild-data-analysis/guild-data-analysis.ipynb)
+&nbsp;[![nbviewer](https://img.shields.io/badge/nbviewer-IDA_&_EDA-e87133)](https://nbviewer.org/github/cyterat/notebooks/blob/main/guild-data-analysis/guild-eda.ipynb)
+<br></br>
+
+***
+
+<img align="left" width="90" src="guild-data-analysis/guild-statistical-analysis-qr.png"/>
+
+### 🧙‍♂️ Statistical Analysis of the MMORPG Guild Logs
+
+&nbsp;[![nbviewer](https://img.shields.io/badge/nbviewer-Statistical_Analysis-e87133)](https://nbviewer.org/github/cyterat/notebooks/blob/main/guild-data-analysis/guild-statistical-analysis.ipynb)
 <br></br>
 
 ***
